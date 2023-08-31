@@ -1,2 +1,2 @@
-# Search_Engine_Web_APP
-Designed a web app which implements Information Retreival Algorithms such as TFIDF, BM25, Google Page Rank
+# Search_Engine_web-app
+Designed a web app that implements Information Retrieval Algorithms such as TFIDF, BM25, Google Page Rank
